@@ -1,1 +1,1 @@
-This is the repository from data obtained from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)
+This data for this repository has been obtained from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)
